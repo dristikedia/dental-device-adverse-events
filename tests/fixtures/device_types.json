@@ -1,0 +1,22 @@
+{
+ "name": "device_types",
+ "query": {},
+ "downloaded_on": "2026-10-17",
+ "meta": {
+  "last_updated": "2026-10-07"
+ },
+ "results": [
+  {
+   "term": "Implant, Endosseous, Root-Form",
+   "count": 90
+  },
+  {
+   "term": "Scaler, Ultrasonic",
+   "count": 6
+  },
+  {
+   "term": "Toothbrush, Powered",
+   "count": 4
+  }
+ ]
+}

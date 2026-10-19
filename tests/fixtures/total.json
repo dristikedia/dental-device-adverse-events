@@ -1,0 +1,14 @@
+{
+ "name": "total",
+ "query": {},
+ "downloaded_on": "2026-10-17",
+ "meta": {
+  "last_updated": "2026-10-07",
+  "results": {
+   "skip": 0,
+   "limit": 1,
+   "total": 100
+  }
+ },
+ "results": []
+}

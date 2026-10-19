@@ -1,0 +1,22 @@
+{
+ "name": "regulation_numbers",
+ "query": {},
+ "downloaded_on": "2026-10-17",
+ "meta": {
+  "last_updated": "2026-10-07"
+ },
+ "results": [
+  {
+   "term": "872.3640",
+   "count": 90
+  },
+  {
+   "term": "872.4850",
+   "count": 9
+  },
+  {
+   "term": "888.3040",
+   "count": 1
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "name": "event_types",
+ "query": {},
+ "downloaded_on": "2026-10-17",
+ "meta": {
+  "last_updated": "2026-10-07"
+ },
+ "results": [
+  {
+   "term": "Injury",
+   "count": 85
+  },
+  {
+   "term": "Malfunction",
+   "count": 10
+  },
+  {
+   "term": "",
+   "count": 4
+  },
+  {
+   "term": "Death",
+   "count": 1
+  }
+ ]
+}

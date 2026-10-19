@@ -1,0 +1,22 @@
+{
+ "name": "by_day",
+ "query": {},
+ "downloaded_on": "2026-10-17",
+ "meta": {
+  "last_updated": "2026-10-07"
+ },
+ "results": [
+  {
+   "time": "20250103",
+   "count": 30
+  },
+  {
+   "time": "20251220",
+   "count": 20
+  },
+  {
+   "time": "20260105",
+   "count": 50
+  }
+ ]
+}

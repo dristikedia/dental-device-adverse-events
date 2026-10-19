@@ -1,0 +1,18 @@
+{
+ "name": "by_day_without_implants",
+ "query": {},
+ "downloaded_on": "2026-10-17",
+ "meta": {
+  "last_updated": "2026-10-07"
+ },
+ "results": [
+  {
+   "time": "20250103",
+   "count": 5
+  },
+  {
+   "time": "20260105",
+   "count": 5
+  }
+ ]
+}

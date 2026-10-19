@@ -1,0 +1,22 @@
+{
+ "name": "product_problems",
+ "query": {},
+ "downloaded_on": "2026-10-17",
+ "meta": {
+  "last_updated": "2026-10-07"
+ },
+ "results": [
+  {
+   "term": "Failure to Osseointegrate",
+   "count": 70
+  },
+  {
+   "term": "Fracture",
+   "count": 20
+  },
+  {
+   "term": "Break",
+   "count": 15
+  }
+ ]
+}
