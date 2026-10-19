@@ -1,0 +1,18 @@
+# Raw data and the database are rebuilt by the scripts
+data/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
